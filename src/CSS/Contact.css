@@ -1,0 +1,23 @@
+main {
+    width: 100%;
+
+    margin-bottom: 50px;
+}
+
+main > p {
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+main > .cards {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+main > .cards > .card {
+    margin: 20px;
+}

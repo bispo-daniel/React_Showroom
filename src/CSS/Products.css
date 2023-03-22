@@ -1,0 +1,42 @@
+main {
+    width: 100%;
+    max-width: 1440px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 50px;
+}
+
+main > p {
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+main > .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main > .products > .card {
+    margin: 20px;
+}
+
+main > .products > .card:hover {
+    filter: brightness(0.75);
+    transition: 0.5s;
+}
+
+p:hover {
+    color: transparent;
+    transition: 0.5s;
+}
+
+@media screen and (max-width: 425px){
+    main > .products > .card {
+        margin: 10px;
+    }
+}
