@@ -40,6 +40,8 @@ nav {
     width: 50%;
     max-width: 450px;
 
+    height: 60px;
+
     border: 1px solid blue;
     border-top: none;
     border-radius: 0 0 60px 60px;
@@ -69,7 +71,6 @@ nav > a:hover {
         header > .icons {
             /* display: none; */
             width: 44%;
-            height: 60px;
         }
         nav {
             background-color: white;
