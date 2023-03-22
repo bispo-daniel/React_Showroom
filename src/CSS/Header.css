@@ -15,6 +15,7 @@ header > h1 {
 header > .icons {
     width: 30%;
     max-width: 250px;
+    height: 60px;
 
     display: flex;
     justify-content: space-around;
@@ -39,8 +40,6 @@ nav {
     min-width: 222px;
     width: 50%;
     max-width: 450px;
-
-    height: 60px;
 
     border: 1px solid blue;
     border-top: none;
