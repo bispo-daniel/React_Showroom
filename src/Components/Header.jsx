@@ -1,6 +1,11 @@
 import '../CSS/Header.css'
+import { useEffect } from 'react'
+import Trigger from '../Trigger'
 
 function Header(){
+    useEffect(() => {
+        Trigger();
+    }, [])
     return(
         <>
             <header>

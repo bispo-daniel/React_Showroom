@@ -1,5 +1,5 @@
 # Check this project running:
-https://bispo-vitrine-virtual.netlify.app
+    https://bishop-showroom.netlify.app
 
 # Getting Started with Create React App
 
