@@ -1,6 +1,9 @@
 # Check this project running:
     https://bishop-showroom.netlify.app
 
+# About...
+    Simple React app with Bootstrap to display a static showroom.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
