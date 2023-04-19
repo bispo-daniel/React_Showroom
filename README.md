@@ -1,13 +1,13 @@
 # Check this project running:
-    https://bishop-showroom.netlify.app
+https://bishop-showroom.netlify.app
 
 # About...
-    Simple React app with Bootstrap to display a static showroom.
+Simple React app with Bootstrap to display a static showroom.
 
 # Challenges and Learning
-  Learned how to use React Props.
+Learned how to use React Props.
   
-  Learned how to use React Router.
+Learned how to use React Router.
 
 # Getting Started with Create React App
 
