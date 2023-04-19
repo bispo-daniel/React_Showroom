@@ -19,8 +19,8 @@ function Header(){
                 </div>
             </header>
             <nav>
-                    <a href='/'>Produtos</a>
-                    <a href='/Contact'>Contatos</a>
+                    <a href='/'>Products</a>
+                    <a href='/Contact'>Contacts</a>
             </nav>
         </>
     )
